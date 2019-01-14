@@ -1,5 +1,7 @@
 # Ignore the huge 20news dataset
 data/20news
+# Ignore the huge MNIST dataset
+data/mnist
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
